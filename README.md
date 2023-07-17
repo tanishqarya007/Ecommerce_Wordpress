@@ -1,5 +1,3 @@
-<img width="957" alt="Screenshot 2023-07-18 015328" src="https://github.com/tanishqarya007/Ecommerce_Wordpress/assets/97527047/40c45c30-dcb6-4c59-9d39-dbb6d6a8c01b">
-<img width="959" alt="Screenshot 2023-07-18 015201" src="https://github.com/tanishqarya007/Ecommerce_Wordpress/assets/97527047/463920ef-8f1e-4d3d-b0ed-e8eb6b16f929">
 ECOMMERCE WORDPRESS WEBSITE
 
 This repository contains a WordPress website that has been customized with some additional HTML and CSS. You can visit the website using the link provided below. If the page doesn't load, please try opening it in incognito mode.
