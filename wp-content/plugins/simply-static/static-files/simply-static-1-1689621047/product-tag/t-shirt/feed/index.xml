@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T-Shirt</title>
+	<atom:link href="https://tanishqarya007.github.io/Ecommerce_Wordpress/product-tag/t-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tanishqarya007.github.io/Ecommerce_Wordpress</link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Apr 2023 13:07:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://tanishqarya007.github.io/Ecommerce_Wordpress/wp-content/uploads/2023/04/download.png</url>
+	<title>T-Shirt</title>
+	<link>https://tanishqarya007.github.io/Ecommerce_Wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dennis Lingo Men&#8217;s Cotton Black Solid Casual Shirt (C301_Black_M)</title>
+		<link>https://tanishqarya007.github.io/Ecommerce_Wordpress/product/dennis-lingo-mens-cotton-black-solid-casual-shirt-c301_black_m/</link>
+					<comments>https://tanishqarya007.github.io/Ecommerce_Wordpress/product/dennis-lingo-mens-cotton-black-solid-casual-shirt-c301_black_m/#respond</comments>
+		
+		<dc:creator><![CDATA[Tanishq007]]></dc:creator>
+		<pubDate>Sat, 15 Apr 2023 13:04:04 +0000</pubDate>
+				<guid isPermaLink="false">https://tanishqarya007.github.io/Ecommerce_Wordpress/?post_type=product#038;p=39</guid>
+
+					<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tanishqarya007.github.io/Ecommerce_Wordpress/product/dennis-lingo-mens-cotton-black-solid-casual-shirt-c301_black_m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
