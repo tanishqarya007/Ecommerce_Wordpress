@@ -7071,7 +7071,7 @@ h2.wl_filter_title {
   .select2-container.select2-container--default
   .selection
   .select2-selection {
-  background: transparent url(../images/selector-icon.png) no-repeat center
+  background: transparent url(https://tanishqarya007.github.io/Ecommerce_Wordpress/wp-content/plugins/woolentor-addons/assets/images/selector-icon.png) no-repeat center
     right 10px;
 }
 
@@ -7274,7 +7274,7 @@ div[class*="woolentor-single-select-drop"] .select2-results__option::before {
   content: "";
   color: #fff;
   border-color: transparent;
-  background-image: url(../images/check.png);
+  background-image: url(https://tanishqarya007.github.io/Ecommerce_Wordpress/wp-content/plugins/woolentor-addons/assets/images/check.png);
   background-repeat: no-repeat;
   background-position: center center;
   border: 0;
